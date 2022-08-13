@@ -1,2 +1,2 @@
 # am-vs-code-theme
-Iseng2.
+Costum One Dark Pro
